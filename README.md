@@ -35,7 +35,7 @@ The repository is organized into specialized directories to maintain clean code 
 ## 🛠️ Installation & Setup
 
 ####  Clone the Repository
-git clone https://github.com/your-username/End-To-End-Data-Analysis-Project.git
+git clone https://github.com/Mustafa-Pario/End-To-End-Data-Analysis-Project.git
 cd End-To-End-Data-Analysis-Project
 
 ####  Install Dependencies 
