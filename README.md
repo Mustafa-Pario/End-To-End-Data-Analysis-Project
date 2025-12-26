@@ -6,6 +6,12 @@ This repository contains a modular Python-based ETL (Extract, Transform, Load) p
 
 The pipeline automates the retrieval of datasets, processes them for analysis, and ensures persistent storage in a SQL environment. It is built with a focus on modularity, allowing each stage of the data lifecycle to be managed independently.
 
+
+<img width="759" height="451" alt="Screenshot 2025-12-27 at 4 25 46 AM" src="https://github.com/user-attachments/assets/e5d065c2-ff55-4ef4-b15d-47c3405df51c" />
+
+
+
+
 #### Key Features
 
 - Data Manipulation: Utilizes pandas for efficient data cleaning and transformation. 
