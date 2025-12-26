@@ -75,7 +75,7 @@ The entire workflow is orchestrated in main.ipynb through the following sequence
 
 - Analysis: Pandas 
 
-- Database: SQLAlchemy, pyodbc 
+- Database: SQL SERVER
 
 - API: Kaggle
 
