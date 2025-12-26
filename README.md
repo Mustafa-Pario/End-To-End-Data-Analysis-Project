@@ -8,7 +8,7 @@ The pipeline automates the retrieval of datasets, processes them for analysis, a
 
 
 <p align="center">
-  <img width="900" height="500" alt="Screenshot 2025-12-27 at 4 25 46 AM"
+  <img width="1000" height="550" alt="Screenshot 2025-12-27 at 4 25 46 AM"
        src="https://github.com/user-attachments/assets/e5d065c2-ff55-4ef4-b15d-47c3405df51c" />
 </p>
 
