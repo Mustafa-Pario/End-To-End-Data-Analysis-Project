@@ -1,0 +1,9 @@
+# Data Manipulation
+pandas
+
+# Kaggle API
+kaggle
+
+# Database Connectivity
+sqlalchemy
+pyodbc
